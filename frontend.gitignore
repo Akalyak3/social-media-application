@@ -1,0 +1,4 @@
+touch .gitignore
+echo "venv/" >> .gitignore
+echo "frontend/node_modules/" >> .gitignore
+echo "frontend/dist/" >> .gitignore
